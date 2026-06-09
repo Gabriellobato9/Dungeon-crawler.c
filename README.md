@@ -25,7 +25,7 @@ Após enfrentar inúmeras batalhas ao lado de seus companheiros, o herói finalm
 
 A cada novo andar, os perigos se tornam maiores e os obstáculos mais difíceis. Apenas os mais corajosos conseguem chegar ao último nível.
 
-No fim da jornada, o destino do reino será decidido em uma batalha contra o poderoso Rei Demônio.
+No fim da jornada, o destino do reino será decidido em uma batalha contra o poderoso Boss das Trevas.
 
 ## 🎯 Missão do Jogador
 

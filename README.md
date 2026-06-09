@@ -1,2 +1,2 @@
 # Dungeon-crawler.c
-Jogo interativo, criado pro Gabriel Lobato e Gabriel Saldanha.
+Jogo interativo, criado pro Gabriel Lobato e Gabriel Saldanha

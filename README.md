@@ -54,3 +54,31 @@ Ferramentas de IA generativa foram utilizadas como suporte durante o desenvolvim
 * Auxílio na análise e correção de problemas encontrados durante o desenvolvimento.
 
 As ferramentas de IA foram utilizadas apenas como recurso de apoio, enquanto toda a implementação e construção do projeto foram realizadas pelos desenvolvedores.
+
+# ⚔️ Armas
+Espada
+Ataque em área à frente do jogador.
+
+Arco e Flecha
+Ataque em linha reta de longo alcance.
+
+Cajado
+Ataque em todas as células adjacentes ao jogador.
+
+# TUTORIAL DE SIMBOLOS 
+Símbolo	Significado
+- "<"	Jogador olhando para esquerda
+- "^"	Jogador olhando para cima
+- ">"	Jogador olhando para direita
+- "v"	Jogador olhando para baixo
+- "*"	Parede
+- "#"	Espinho
+- "k"	Caixa destrutível
+- "O"	Botão
+- "D"	Porta fechada
+- "@"	Chave
+- "="	Porta aberta
+- "L"	Escada
+- "X"	Monstro Tipo 1
+- "Y"	Monstro Tipo 2
+- "Z"	Boss Final
